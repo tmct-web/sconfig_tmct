@@ -1,4 +1,4 @@
-# jconfig_tmct
+# sconfig_tmct
 Ported Intel(ALTERA) SRunner to Raspberry Pi.
 
 This tool is a port of a tool called "SRunner" published by Intel (ALTERA) to the Raspberry Pi.
